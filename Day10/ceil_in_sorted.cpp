@@ -1,6 +1,6 @@
 class Solution {
   public:
-    int findCeil(vector<int>& arr, int x) {
+    int findCeil(vector <int>& arr, int x) {
         // code here
         int n=arr.size();
         int s=0,e=n-1;
