@@ -1,7 +1,6 @@
 class Solution {
   public:
     vector<int> nextSmallerEle(vector<int>& arr) {
-        //  code here
         int n=arr.size();
         stack<int> st;
         vector<int> ans;
